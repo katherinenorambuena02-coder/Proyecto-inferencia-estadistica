@@ -1,0 +1,65 @@
+Análisis Estadístico sobre Hábitos Saludables en Jóvenes Universitarios
+📌 Descripción
+
+Este proyecto aplica herramientas de inferencia estadística para analizar los hábitos de sueño, actividad física y nivel de energía en estudiantes universitarios.
+
+Se desarrolló como evaluación final del módulo de Inferencia Estadística.
+
+🎯 Objetivo
+
+Determinar si los estudiantes universitarios duermen menos de las 7 horas recomendadas, utilizando pruebas estadísticas formales.
+
+🧪 Metodología
+
+Muestreo aleatorio simple
+
+n = 120 estudiantes
+
+Simulación de datos
+
+Distribuciones Normal y Binomial
+
+Teorema del Límite Central
+
+Intervalos de confianza
+
+Test de hipótesis
+
+📈 Resultados principales
+
+Media horas de sueño: 6.397
+
+IC 95%: (6.173 , 6.621)
+
+p-valor < 0.05
+
+Conclusión:
+Existe evidencia estadística significativa de déficit de sueño.
+
+📂 Estructura del proyecto
+
+dataset/
+
+notebooks/
+
+informe/
+
+presentacion/
+
+🛠 Tecnologías utilizadas
+
+Python
+
+Pandas
+
+NumPy
+
+SciPy
+
+Matplotlib
+
+Excel
+
+👩‍💻 Autora
+
+Katherine Norambuena Velásquez
